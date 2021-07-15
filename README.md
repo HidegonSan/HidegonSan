@@ -10,12 +10,13 @@
   </a>
 </p>
 
-### [Join our Discord!](https://discord.gg/BpHQgV6BFn)
 ---
 Discord: Hidegon#7700  
+Discord Server: [Join](https://discord.gg/BpHQgV6BFn)  
 Twitter: [@Hidegon_](https://twitter.com/Hidegon_)  
 Qiita: [@Hidegon](https://qiita.com/Hidegon)  
 Spotify: [Hidegon#7700](https://open.spotify.com/user/312m2kslahts4mrwtyfmp7oabdo4?si=wDDLElVeRaSetM3ECJrybA&utm_source=copy-link&dl_branch=1)  
+Wikipedia: [Hidegon](https://ja.m.wikipedia.org/w/index.php?title=利用者:Hidegon)
 
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=HidegonSan&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt">
