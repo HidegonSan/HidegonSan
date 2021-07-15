@@ -1,4 +1,4 @@
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/yutkat/HidegonSan/">
     <img src="https://komarev.com/ghpvc/?username=yutkat" alt="HidegonSan" />
   </a>
@@ -11,6 +11,15 @@
 </p>
 
 ### [Join our Discord!](https://discord.gg/BpHQgV6BFn)
+---
+Discord: Hidegon#7700  
+Twitter: [@Hidegon_](https://twitter.com/Hidegon_)  
+Qiita: [@Hidegon](https://qiita.com/Hidegon)  
+Spotify: [Hidegon#7700](https://open.spotify.com/user/312m2kslahts4mrwtyfmp7oabdo4?si=wDDLElVeRaSetM3ECJrybA&utm_source=copy-link&dl_branch=1)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hidegonsan&theme=dark)](https://github.com/hidegonsan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidegonsan&layout=compact&theme=dark)](https://github.com/hidegonsan/github-readme-stats)
+---
+<img src="https://github-readme-stats.vercel.app/api?username=HidegonSan&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidegonSan&layout=compact&langs_count=10&theme=cobalt">
+<img src="https://github-profile-trophy.vercel.app/?username=HidegonSan&theme=nord">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HidegonSan&theme=solarized_dark)
