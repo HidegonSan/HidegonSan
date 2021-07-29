@@ -1,6 +1,6 @@
 <p align="left">
-  <a href="https://github.com/yutkat/HidegonSan/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="HidegonSan" />
+  <a href="https://github.com/HidegonSan/">
+    <img src="https://komarev.com/ghpvc/?username=HidegonSan" alt="HidegonSan" />
   </a>
   <a href="http://twitter.com/HidegonSan">
     <img height="20" src="https://img.shields.io/twitter/follow/Hidegon_?label=Twitter&logo=twitter&style=flat" />
