@@ -11,7 +11,7 @@
 </p>
 
 ---
-Discord: Hidegon#7700  
+Discord: ---  
 Discord Server: [Join](https://discord.gg/BpHQgV6BFn)  
 Twitter: [@Hidegon_](https://twitter.com/Hidegon_)  
 Qiita: [@Hidegon](https://qiita.com/Hidegon)  
