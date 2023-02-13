@@ -4,7 +4,6 @@
 
 Nice to meet you!  
 I'm a student studying programming as a hobby  
-I'm interested in Modding, Privacy, Security, Anonymity  
 I wanna try CTF and competitive programming etc
 
 <br>
