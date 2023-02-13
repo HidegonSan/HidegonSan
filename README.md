@@ -72,7 +72,7 @@ I wanna try CTF and competitive programming etc
 
 <br>
 
-## 💚 Thanks 💚
+### 💚 Thanks 💚
 [📛️ Badges 4 README.md Profile 📛️](https://github.com/alexandresanlim/Badges4-README.md-Profile)  
 [🛡️ Shields 🛡️](https://github.com/badges/shields)  
 [📝 GitHub Profile Summary Cards 📝](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
