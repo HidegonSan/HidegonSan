@@ -85,7 +85,8 @@ I wanna try CTF and competitive programming etc
 <br>
 
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white) [@Hidegon_](https://twitter.com/Hidegon_)  
-[Blog](https://hidegonsan.github.io/blog/)
+[Blog](https://hidegonsan.github.io/blog/)  
+[Social Accounts](./social.md)
 
 <br>
 <!-- End of Socials -->
