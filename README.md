@@ -4,8 +4,6 @@
 <br>
 
 Nice to meet you!  
-I'm a student studying programming as a hobby  
-I wanna try CTF and competitive programming etc
 
 <br>
 <!-- End of Top -->
@@ -18,13 +16,7 @@ I wanna try CTF and competitive programming etc
 <!-- Skills -->
 <br>
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ARM Assembly](https://img.shields.io/badge/-ARM%20Assembly-%23c01010?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+None
 
 <br>
 <!-- End of Skills-->
@@ -36,10 +28,10 @@ I wanna try CTF and competitive programming etc
 
 <div align="center">  
 
-  ![Manjaro Linux](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+  <!-- ![Manjaro Linux](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) -->
   ![KDE Plasma](https://img.shields.io/badge/-KDE%20Plasma-%231d99f3?style=for-the-badge)  
   
-  ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  <!-- ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) -->
   ![REALFORCE](https://img.shields.io/badge/-REALFORCE-%23c51011?style=for-the-badge)  
 
   ![LibreWolf](https://img.shields.io/badge/-LibreWolf-%2300acff?style=for-the-badge)
