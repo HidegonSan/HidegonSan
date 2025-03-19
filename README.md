@@ -11,15 +11,17 @@ Nice to meet you!
 <!-- Start of center -->
 <div align="center">
 
+<!--
 ## 🔮 Skills 🔮
 
-<!-- Skills -->
+<!-- Skills -\->
 <br>
 
 None
 
 <br>
-<!-- End of Skills-->
+<!-- End of Skills-\->
+-->
 
 ## 🛠️ Environment 🛠️
 
@@ -34,7 +36,7 @@ None
   <!-- ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) -->
   ![REALFORCE](https://img.shields.io/badge/-REALFORCE-%23c51011?style=for-the-badge)  
 
-  ![LibreWolf](https://img.shields.io/badge/-LibreWolf-%2300acff?style=for-the-badge)
+  <!-- ![LibreWolf](https://img.shields.io/badge/-LibreWolf-%2300acff?style=for-the-badge) -->
   ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
   ![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
