@@ -20,7 +20,7 @@ I ♥️ ![EndeavourOS Badge](https://img.shields.io/badge/EndeavourOS-7F7FFF?lo
 
 ## 🌐 Socials 🌐
 
-[📚️Blog📚️](https://hidegonsan.github.io/blog/) | [🌐Social Accounts🌐](./social.md)  
+[📚️Blog📚️](https://hidegonsan.github.io/blog/) | [🌐Social Accounts🌐](https://hidegonsan.github.io/blog/pages/profile/)  
 
 <br>
 
