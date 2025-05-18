@@ -1,5 +1,7 @@
 # I'm Hidegon!
 
+![Moe Counter](https://count.getloli.com/@hidegon?name=hidegon&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)  
+
 Nice to meet you!  
 
 I ♥️ ![EndeavourOS Badge](https://img.shields.io/badge/EndeavourOS-7F7FFF?logo=endeavouros&logoColor=fff&style=flat-square) with ![KDE Badge](https://img.shields.io/badge/KDE-1D99F3?logo=kde&logoColor=fff&style=flat-square).  
