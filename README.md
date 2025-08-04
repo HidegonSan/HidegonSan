@@ -4,8 +4,10 @@
 
 Nice to meet you!  
 
+<!--
 I ♥️ ![EndeavourOS Badge](https://img.shields.io/badge/EndeavourOS-7F7FFF?logo=endeavouros&logoColor=fff&style=flat-square) with ![KDE Badge](https://img.shields.io/badge/KDE-1D99F3?logo=kde&logoColor=fff&style=flat-square).  
 <br>
+-->
 
 <div align="center">
   
